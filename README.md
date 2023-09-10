@@ -8,7 +8,9 @@ Part 1: Analyze and Explore the Climate Data
 a. Precipitation Analysis: I queried and loaded the most recent 12 months of precipitation data, sorted it by date, and visualized it using Matplotlib. I also conducted statistical analysis on precipitation data.
 ![image](https://github.com/nehachangela/sqlalchemy-challenge/assets/73354497/417da068-ff90-4055-9ed9-ed18b9b4fc89)
 
+
 b. Temperature Analysis: I identified the most active station based on temperature observations and calculated minimum, maximum, and average temperatures for that station. Additionally, I created a histogram to visualize temperature data for the most recent 12 months.
+![image](https://github.com/nehachangela/sqlalchemy-challenge/assets/73354497/e4ea97a5-78ee-4a5e-910d-c6c01db1ed19)
 
 
 Part 2: Design Your Climate App
